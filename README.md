@@ -3,4 +3,6 @@ Este repositorio contiene el notebook donde se realizó todo el ejercicio de mod
  * Se sugiere leer el notebook completo (modelo_riesgo_completo.ipynb) para entender todo el ejercicio de modelamiento.
  * El folder artefactos contiene las metricas finales, modelo_pd.json contiene los pesos y configuraciones del modelo ganador para se usado y replicado en cualquier parte.
  * Los respectivos csv con los splits del conjunto de datos.
- * Tambien encontrarán los archivos .py que contienen todo el pipeline de preprocesamiento para ser usado antes de las predicciones y sus respectivos test de unicidad. 
+ * Tambien encontrarán los archivos .py que contienen todo el pipeline de preprocesamiento para ser usado antes de las predicciones y sus respectivos test de unicidad.
+ * El archivo Resumen y Respuestas.pdf contiene las respuestas a las preguntas hechas puntualmente dentro de la prueba y el resumen ejecutivo.
+ 
